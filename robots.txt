@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://76bet.ulrich-bauer.org/sitemap.xml
